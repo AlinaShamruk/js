@@ -14,11 +14,7 @@ let data = [
     }
 ];
 
-let first = document.getElementsById('our_arr');
-first.innerHTML = data;
 
-let kfdk = document.getElementById('First Name')
-kfdk.innerHTML = data[firstName]
 
 
 // for (let row = 0; row < n; row++) {
